@@ -1,4 +1,3 @@
-// app/javascript/components/Greeting.js
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import fetchGreeting from '../redux/thunk';
